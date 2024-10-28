@@ -1,13 +1,16 @@
+link: https://three-js-practice-1.vercel.app/
+
 ![image](https://github.com/user-attachments/assets/d0ebd9fc-a06d-400a-866a-f4e01e60c3e0)
 
 ### Three.js and Gsap practice project 1 (iPhone 15 website)
 This practice project involves learning how to make a 3D website using three.js and gsap. Here we are making a clone of the iPhone 15 website which is a great start to learn. 
 
 ## Tech stack:
-1) React with vite framework
+1) React
 2) Tailwind CSS
 3) GSAP
 4) Three.js
+5) React-three-fiber
 
 ## steps to run the project:
 1) Clone the repo using this command from GitHub:
